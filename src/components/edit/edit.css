@@ -1,0 +1,18 @@
+.full-width {
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+.full-width:hover {
+  background: linear-gradient(to left, #2676ac, #2a81ba);
+}
+
+.modal-header {
+  background: linear-gradient(to left, #2557b5, #cbe8fa);
+}
+.modal-body {
+  background-size: cover;
+  padding: 50px;
+
+  padding-bottom: 50px;
+}
